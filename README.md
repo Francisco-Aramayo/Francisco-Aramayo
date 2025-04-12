@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Fran]
 
-<!--
-**Francisco-Aramayo/Francisco-Aramayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de la **Licenciatura en Sistemas** en la **Universidad Nacional de La Plata (UNLP)**.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías que estoy aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python – para análisis de datos.
+- ☕ Java – para estructuras de datos y programación orientada a objetos.
+
+## 📚 Intereses
+
+- Linux, terminal y herramientas de desarrollo.
+
+## 📫 Cómo contactarme
+- Email: [aramayo.francisco04@gmail.com]  
+
+---
