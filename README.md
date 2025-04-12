@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Fran]
+# 👋 ¡Hola! Soy Fran
 
 Estudiante de la **Licenciatura en Sistemas** en la **Universidad Nacional de La Plata (UNLP)**.
 
